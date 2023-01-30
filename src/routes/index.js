@@ -1,10 +1,10 @@
 // Layouts
-import { HeaderOnly } from '~/component/Layout';
+import { HeaderOnly } from '~/component/Layouts';
 
-import Home from '~/Page/Home';
-import Following from '~/Page/Following';
-import Profile from '~/Page/Profile';
-import Upload from '~/Page/Upload';
+import Home from '~/Pages/Home';
+import Following from '~/Pages/Following';
+import Profile from '~/Pages/Profile';
+import Upload from '~/Pages/Upload';
 
 //Public routes
 const publicRoutes = [
